@@ -1,42 +1,66 @@
-# Paperfolio - Portfolio Template for John Dooe
+# 📰 Paperfolio — Editorial Print-Textured Creative Portfolio
 
-Paperfolio portfolio landing page built for **John Dooe**, made ready by **quolytech**.
-
----
-
-## Live Demo & Template Access
-
-**→  Template (Clone / Remix):** https://v0.link/paperfolio
-
-**→  Live Preview:** https://v0-paperfolio.vercel.app
+> **Category**: Editorial Magazine Design, Digital Agency & Personal Branding  
+> **Brand**: Paperfolio • The Art of Tangible Design  
+> **Author & Identity**: Made by [QuolyTech](https://github.com/orivojka-eng)  
 
 ---
 
-## Video Walkthrough
+## 📖 The Story Behind Paperfolio
 
-**→ Watch the walkthrough on X:**
-[https://x.com/i/status/1994130537464910310](https://x.com/i/status/1994130537464910310)
-
----
-
-## What’s Inside the Template
-
-* Clean portfolio with hero section and highlight-style text blocks
-* Minimal, bold layout focused on showcasing your work
-* Reusable components built directly in V0
-* Easy to customize for personal portfolios or client sites
+In a digital landscape filled with clinical interfaces, **Paperfolio** bridges the tactile nostalgia of independent print magazines and vintage typography with modern, responsive web engineering. Featuring warm parchment tones, editorial columns, textured borders, and playful illustrations, Paperfolio is crafted for designers, art directors, and storytellers who treat web pages like collectible print editions.
 
 ---
 
-## How to Use It
+## ✨ Key Functions & Experience
 
-1. Open the template → https://v0.link/paperfolio
-2. Click on “Open in V0”
-3. Make your styling tweaks
-4. Deploy on Vercel
+### 1. Vintage Editorial Layout System
+- **Print Typography Hierarchy**: Harmonious balance between expressive serif headlines and legible modernist body type.
+- **Parchment Aesthetics**: Warm off-white backgrounds (`#FAF8F5`) complemented by rich ink black accents.
 
-That’s it — you have a clean, modern portfolio site ready to ship.
+### 2. Client & Partner Logo Marquee
+- Continuous smooth horizontal marquee showcasing collaborations with top-tier technology and culture brands.
+
+### 3. Interactive Case Study Showcase
+- Categorized presentation of Product Design, Creative Direction, and Brand Systems with full-screen imagery previews.
+
+### 4. Career Journey & Experience Roadmap
+- Editorial timeline tracking past agency roles, design leadership milestones, and speaking engagements.
+
+### 5. Curated Essay & Thought Leadership Archive
+- Integrated article reading list covering design philosophy, typographic history, and design systems.
+
+### 6. Interactive Contact & Newsletter Portal
+- Playful newsletter subscription card with paper-airplane iconography and one-click consultation scheduler.
 
 ---
 
-If you end up customizing this, I’d like to see what you build.
+## 🛠️ Technology Stack
+
+- **Framework**: Next.js 15
+- **Library**: React 19
+- **Styling**: Tailwind CSS + Custom Editorial Grain Palette
+- **Components**: Radix UI Primitives
+- **Icons**: Lucide Icons
+
+---
+
+## 🚀 Quick Start & Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/orivojka-eng/paperfolio.git
+
+# Navigate to directory
+cd paperfolio-portfolio-template
+
+# Install dependencies
+npm install --legacy-peer-deps
+
+# Start development server
+npm run dev
+```
+
+---
+
+*Curated with editorial elegance by **QuolyTech**.*
